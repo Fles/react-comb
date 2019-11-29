@@ -1,0 +1,25 @@
+{
+  "name": "react-comb",
+  "version": "0.0.1",
+  "description": "Comb your react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fles/react-comb.git"
+  },
+  "keywords": [
+    "comb",
+    "react",
+    "repository",
+    "app"
+  ],
+  "author": "Nikola Horvat",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Fles/react-comb/issues"
+  },
+  "homepage": "https://github.com/Fles/react-comb#readme"
+}
