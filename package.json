@@ -25,11 +25,9 @@
     "url": "https://github.com/Fles/react-comb/issues"
   },
   "homepage": "https://github.com/Fles/react-comb#readme",
-  "dependencies": {
-    "colors": "^1.4.0",
-    "lodash": "^4.17.15"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "glob": "^7.1.6",
     "prettier": "1.19.1"
   }
 }
