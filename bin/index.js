@@ -2,4 +2,4 @@
 
 const { ls } = require('../lib/ls')
 
-ls(process.argv[2])
+ls(process.argv)
